@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3474
+
+Currently for GUI and color terminals only!
+
+Features:
+ - Great for Web Development (HTML, CSS, JavaScript)
+ - Pathogen Ready
+
+Resources
+ - Github: https://github.com/bawigga/vim-neopro
+ - Screenshot: https://github.com/bawigga/vim-neopro/raw/master/neopro.png
